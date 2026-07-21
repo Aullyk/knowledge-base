@@ -7,5 +7,5 @@ last_verified: '2026-07-21'
 ---
 
 Operating System: Arch Linux
-Window Manager: Wayland
-Terminal Emulator: Niri
+Window Manager: Niri
+Wayland
