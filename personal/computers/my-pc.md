@@ -8,4 +8,4 @@ last_verified: '2026-07-21'
 
 Operating System: Arch Linux
 Window Manager: Niri
-Wayland
+Display Server Protocol: Wayland
