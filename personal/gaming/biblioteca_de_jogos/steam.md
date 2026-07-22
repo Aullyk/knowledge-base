@@ -10,7 +10,6 @@ last_verified: '2026-07-22'
 
 | Jogo | Tempo de Jogo |
 |------|---------------|
-| [JOGO NÃO ESPECIFICADO] | 60 minutos |
 | ARCADE PARADISE | 59 minutos |
 | DEAD MAZE | 58 minutos |
 | GOLF WITH YOUR FRIENDS | 58 minutos |
